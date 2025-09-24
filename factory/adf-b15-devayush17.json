@@ -1,0 +1,21 @@
+{
+	"name": "adf-b15-devayush17",
+	"properties": {
+		"globalParameters": {
+			"container": {
+				"type": "string",
+				"value": "adlsgen2container"
+			},
+			"filepath": {
+				"type": "string",
+				"value": "target"
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b33682c6-5d8d-4d40-afc2-a4327da7165d",
+		"tenantId": "33abe6c6-c18f-4482-b6da-42df7e0ffab0"
+	}
+}
